@@ -24,7 +24,7 @@ metatitle - This is what you want the
 
 metadescription - Write something about yourself!
 
-background - This is the <b>URL to the image you want for your background.</b> <i>This <b>must be</b> a URL!<i>
+background - This is the <b>URL to the image you want for your background.</b> <i>This <b>must be</b> a URL!</i>
 
 footer - What you want the footer (text at the bottom of the page) to say
 
